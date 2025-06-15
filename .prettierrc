@@ -1,0 +1,15 @@
+{
+  "tabWidth": 2,
+  "useTabs": false,
+  "printWidth": 100,
+  "singleQuote": true,
+  "htmlWhitespaceSensitivity": "ignore",
+  "overrides": [
+    {
+      "files": "*.liquid",
+      "options": {
+        "parser": "html"
+      }
+    }
+  ]
+}
